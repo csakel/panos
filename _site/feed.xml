@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>DJ Panos</title>
+    
+    
+    <description>This website is a virtual proof that I'm awesome</description>
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Sample blog post</title>
+        <description>
+          Each post also has a subtitle - 
+          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
+        </description>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020-02-28-test-markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-02-28-test-markdown/</guid>
+      </item>
+    
+      <item>
+        <title>Flake it till you make it</title>
+        <description>
+          Excerpt from Soulshaping by Jeff Brown - 
+          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+        </description>
+        <pubDate>Wed, 26 Feb 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</guid>
+      </item>
+    
+      <item>
+        <title>Dataplicity Drastically Simplifies Remote Management of a Raspberry Pi</title>
+        <description>
+          
+          Typically, if you wanted to control your Raspberry Pi from outside your network, you’d need to go through and set up your router to allow access from the internet, install some software on your Pi, set up a DNS, and cross your fingers you’re doing that all securely. Dataplicity makes...
+        </description>
+        <pubDate>Wed, 14 Dec 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2016-12-14-raspberry-pi/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-12-14-raspberry-pi/</guid>
+      </item>
+    
+      <item>
+        <title>Flying over Manhattan</title>
+        <description>
+          Let's Groove - 
+          Το Lorem Ipsum είναι απλά ένα κείμενο χωρίς νόημα για τους επαγγελματίες της τυπογραφίας και στοιχειοθεσίας. Το Lorem Ipsum είναι το επαγγελματικό πρότυπο όσον αφορά το κείμενο χωρίς νόημα, από τον 15ο αιώνα, όταν ένας ανώνυμος τυπογράφος πήρε ένα δοκίμιο και ανακάτεψε τις λέξεις για να δημιουργήσει ένα δείγμα βιβλίου....
+        </description>
+        <pubDate>Fri, 09 Dec 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2016-12-09-test_panos/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-12-09-test_panos/</guid>
+      </item>
+    
+      <item>
+        <title>Basketball</title>
+        <description>
+          Best sport ever! - 
+          In early December 1891, Canadian Dr. James Naismith, a physical education professor and instructor at the International Young Men’s Christian Association Training School (YMCA) (today, Springfield College) in Springfield, Massachusetts was trying to keep his gym class active on a rainy day. He sought a vigorous indoor game to keep...
+        </description>
+        <pubDate>Fri, 11 Nov 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2016-11-11-basketball/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-11-11-basketball/</guid>
+      </item>
+    
+      <item>
+        <title>To be</title>
+        <description>
+          ... or not to be? - 
+          To be, or not to be–that is the question: Whether ‘tis nobler in the mind to suffer The slings and arrows of outrageous fortune Or to take arms against a sea of troubles And by opposing end them. To die, to sleep– No more–and by a sleep to say we...
+        </description>
+        <pubDate>Fri, 13 Feb 2015 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2015-02-13-hamlet-monologue/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-02-13-hamlet-monologue/</guid>
+      </item>
+    
+      <item>
+        <title>Rubik's Cube</title>
+        <description>
+          The brain Teaser - 
+          From Wikipedia Rubik’s Cube is a 3-D combination puzzle invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik. Originally called the Magic Cube, the puzzle was licensed by Rubik to be sold by Ideal Toy Corp. in 1980[4] via businessman Tibor Laczi and Seven Towns founder Tom...
+        </description>
+        <pubDate>Thu, 15 Jan 2015 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2015-01-15-rubik/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-01-15-rubik/</guid>
+      </item>
+    
+      <item>
+        <title>First post!</title>
+        <description>
+          
+          This is my first post, how exciting!
+
+        </description>
+        <pubDate>Sun, 04 Jan 2015 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2015-01-04-first-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-01-04-first-post/</guid>
+      </item>
+    
+  </channel>
+</rss>
